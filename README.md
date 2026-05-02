@@ -69,23 +69,6 @@ Foram implementados testes unitários para garantir o funcionamento das principa
 ✔ Login com email incorreto  
 ✔ Login com senha incorreta  
 
----
-
-## 🏗️ Estrutura do projeto
-backend/
-├── src/main/java/com/presensee/
-│ ├── CadastroService.java
-│ └── LoginService.java
-│
-├── src/test/java/com/presensee/
-│ ├── CadastroServiceTest.java
-│ └── LoginServiceTest.java
-│
-├── pom.xml
-└── README.md
-
----
-
 ## 🚀 Como rodar o projeto
 
 ### Pré-requisitos
@@ -109,31 +92,3 @@ Ao executar os testes, deve aparecer:
 BUILD SUCCESS
 
 Isso significa que todos os testes passaram corretamente.
----
-🔐 Segurança
-Validação básica de dados
-Estrutura preparada para autenticação futura
-Organização para evolução com boas práticas
----
-👨‍💻 Equipe
-Miguel Augusto
-Echilin Taina
-Ygor de Tárcio
-Maysa Clara
-Ludmylla Dias
-Matheus Vinnycius
-Pedro Henrique Jerônimo
-Gabriel Soares
----
-📌 Status do projeto
-
-🚧 Em desenvolvimento (Projeto Integrador IV)
----
-💡 Contribuição
-Crie uma branch (feature/nome-da-feature)
-Faça suas alterações
-Abra um Pull Request
----
-📄 Licença
-
-Este projeto é acadêmico e sem fins lucrativos.
